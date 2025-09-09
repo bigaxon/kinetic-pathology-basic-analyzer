@@ -55,8 +55,8 @@ your-repo-name/
 ***
 
 ## 🚀 Roadmap
-  1. Figure out what the fuck I am doing
-  B. Do it for the rest of my life
+- [ ] Figure out what the fuck I am doing
+- [ ] Do it for the rest of my life
 
 ***
 
@@ -76,7 +76,7 @@ This analyzer is optimized for use with MP4 or MOV files with the following cons
 ***
 
 ## 🙌🏽 Acknowledgements
-  1. ChatGPT5, Claude Sonnet 4
+  1. My co-CTOs: ChatGPT 5 & Claude Sonnet 4
   2. OpenCV, scikit-image, pandas, matplotlib
   3. All y'all
 
