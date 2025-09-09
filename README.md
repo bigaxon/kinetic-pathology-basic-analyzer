@@ -22,8 +22,8 @@ Carbonell, W. S., Murase, S.-I., Horwitz, A. F., & Mandell, J. W. (2005). Migrat
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/bigaxon/kinetic-pathology-basic-analyzer.git
+cd kinetic-pathology-basic-analyzer
 pip install -r requirements.txt
 ```
 ***
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Run the script on a sample movie:
 
 ```bash
-python your_script_name.py --input path/to/movie.mov --out results/
+python kinetic_basic_repo_app.py --input path/to/movie.mov --out results/
 ```
 Options:
  - input → path to input movie file (MOV, MP4, etc.)
@@ -43,12 +43,12 @@ Options:
 ## 📂 Project Structure
 
 ```bash
-your-repo-name/
-├── your_script_name.py      # Core analysis script
-├── requirements.txt         # Python dependencies
-├── README.md                # This file
-├── LICENSE                  # License file
-└── .gitignore               # Ignored files
+kinetic-pathology-basic-analyzer/
+├── kinetic_basic_repo_app.py      # Core analysis script
+├── requirements.txt               # Python dependencies
+├── README.md                      # This file
+├── LICENSE                        # License file
+└── .gitignore                     # Ignored files
 ```
 
 ***
