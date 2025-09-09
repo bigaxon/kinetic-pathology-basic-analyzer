@@ -54,9 +54,8 @@ kinetic-pathology-basic-analyzer/
 ***
 
 ## 🚀 Roadmap
-- [ ] Figure out what the fuck I am doing
-- [ ] Do it
-- [ ] If I love it, do it for the rest of my life
+- [ ] optimize settings
+- [ ] ...and more!
 
 ***
 
