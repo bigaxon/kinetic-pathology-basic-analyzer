@@ -1,4 +1,11 @@
-# Kinetic Pathology – Basic Analyzer (RUO)
+# Kinetic Pathology – Basic Analyzer (alpha)
+
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-alpha-orange.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/bigaxon/kinetic-pathology-basic-analyzer)
+![Last commit](https://img.shields.io/github/last-commit/bigaxon/kinetic-pathology-basic-analyzer)
+
 
 Comprehensive in situ cell migration analyses based on Carbonell et al, 2005b. Does in 7 seconds what took me 7 days to do during my dissertation. 😭
 
@@ -14,7 +21,7 @@ ASSUMPTIONS. This analyzer is optimized for use with MP4 or MOV files with the f
 
 ***
 
-SAMPLE VIDEOS. 
+SAMPLE VIDEOS (from Carbonell et al., 2005b). 
   1. MOVIE1_TEST.MOV - thalamus 24h after lesion (inflammatory condition)
   2. MOVIE2_TEST.MOV - thalamus 24h after sham lesion (naive control)
 
