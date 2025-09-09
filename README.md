@@ -70,8 +70,8 @@ This analyzer is optimized for use with MP4 or MOV files with the following cons
 
 ## 🎥 Sample Videos
 (from Carbonell et al., 2005b)
-  1. [MOVIE1_TEST.MOV](https://www.tiktok.com/@brainsurgerydropout) - thalamus 24h after lesion (inflammatory condition)
-  2. [MOVIE2_TEST.MOV](https://www.instagram.com/brainsurgerydropout) - thalamus 24h after sham lesion (naive control)
+  1. [MOVIE1_TEST.MOV](https://drive.google.com/file/d/1S594j7KRyqeTHFsbO16WXPlp8TC5ld19/view?usp=sharing) - thalamus 24h after lesion (inflammatory condition)
+  2. [MOVIE2_TEST.MOV](https://drive.google.com/file/d/139URdppe6fwoIbUhToub4YzLTGKqzNmQ/view?usp=sharing) - thalamus 24h after sham lesion (naive control)
 
 ***
 
